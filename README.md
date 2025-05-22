@@ -33,6 +33,6 @@
 </p>
 
 <p>
-<img alt='stats' src='https://github-readme-stats.vercel.app/api?username=haj420)](https://github.com/haj420/github-readme-stats' />
+<img alt='stats' src='https://github-readme-stats.vercel.app/api?username=haj420' />
 </p>
 
