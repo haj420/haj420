@@ -32,3 +32,7 @@
   <img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
 
+<p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haj420)](https://github.com/haj420/github-readme-stats)
+</p>
+
