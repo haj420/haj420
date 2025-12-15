@@ -35,7 +35,7 @@
 </p>
 
 <p>
-<img alt='stats' src='https://github-readme-stats.vercel.app/api?username=haj420&show_icons=true&commits_year=2025' />
+<img alt='stats' src='https://github-readme-stats.vercel.app/api?username=haj420&show_icons=true' />
 <img alt='langs' src='https://github-readme-stats.vercel.app/api/top-langs/?username=haj420&langs_count=4&layout=donut' />
 </p>
 
