@@ -36,6 +36,6 @@
 
 <p>
 <img alt='stats' src='https://github-readme-stats.vercel.app/api?username=haj420&show_icons=true' />
-<img alt='langs' src='https://github-readme-stats.vercel.app/api/top-langs/?username=haj420&layout=donut' />
+<img alt='langs' src='https://github-readme-stats.vercel.app/api/top-langs/?username=haj420&langs_count=4&layout=donut' />
 </p>
 
